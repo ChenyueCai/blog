@@ -5,7 +5,7 @@ author_name:        "Chenyue Cai" # change this to your name
 logo_url:           https://avatars.githubusercontent.com/u/43433308?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://chenyuecai.github.io/blog/ # main url
+url:                https://heiswayi.github.io # main url
 baseurl:            /the-plain
 permalink:          /:title # Post permalink
 timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
