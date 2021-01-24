@@ -1,5 +1,5 @@
 ---
-title: Art history: Chinese painting 
+title: For Example of very Long Title Would Be Typography Elements in One
 updated: 2021-1-24 
 ---
 
