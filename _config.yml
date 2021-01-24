@@ -1,7 +1,7 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
+title:              "Chenyue's Blog"
+description:        "Chenyue Cai's periodic contemplation on arts, science and life"
+author_name:        "Chenyue Cai" # change this to your name
 logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
