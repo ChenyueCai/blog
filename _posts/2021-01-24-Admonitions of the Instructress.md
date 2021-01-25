@@ -27,7 +27,9 @@ The three pieces of calligraphy have distinct styles and sizes. The leftmost pie
 
 Upon first viewing, all these works seem to be a potpourri. The question comes naturally that why are all these works ensembled to the same panel? How are they related to and interact with each other? Does the sequence tell a specific story? 
 
+Another feature that stood out in this works is the seals of different sizes, fonts and shapes that occupy all over the background of paintings and calligraphy pieces. One could also notice that seals are most present in two sections, the transitional area between the orchid painting and the left of Gu's work, as well as the space between the calligraphy and Gu's work.There are also repeated appearance of the same seal imprinted on Gu's work for as many as five times. One could observe that seals are mostly avoiding the subject matter whether it is figures or calligraphy characters. 
 
+What does these seal stands for? What does their spatial occupation do to the work? These are all intricate questions to be uncovered.
 
 
 
