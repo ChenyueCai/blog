@@ -1,6 +1,6 @@
 ---
-title: For Example 
-updated: 2016-10-18 10:38 
+title: Typography Demo
+updated: 2021-1-20 10:38 
 ---
 
 **NOTE:** This markdown cheatsheet is a typography demo for this theme. Check out this post to learn more about this markdown usage when you want to get started with this theme. Enjoy!
