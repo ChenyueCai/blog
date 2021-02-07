@@ -1,6 +1,6 @@
 ---
 title: The Art of Seeing
-updated: 2021-01-25 12:13
+updated: 2021-02-06 12:13
 ---
 
 ![Painting](https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FQfaeb8TptYMGilqazE5zhw%252FSC70442.jpg&width=1200&quality=80)
