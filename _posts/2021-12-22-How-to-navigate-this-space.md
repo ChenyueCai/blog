@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog. 
+title: Welcome to my blog!
 updated: 2021-12-22 12:13
 ---
 
