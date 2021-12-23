@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog!
-updated: INTRO-12-22 12:13
+updated: INTRO 12:13
 ---
 
 Hi there! Welcome to Chenyue's blog where I randomly post things about visual arts, science and life. 
