@@ -7,8 +7,8 @@ updated: 2021-12-22 12:13
 *Fig1, Pablo Picasso, Les Demoiselles d'Avignon, 1907*
 
 
-![Painting](/assets/self-portrait.jpeg)
-![Painting](https://chenyuecai.github.io/assets/self-portrait.jpeg)
+![Painting](/blog/assets/self-portrait.jpeg)
+![Painting](https://chenyuecai.github.io//blog/assets/self-portrait.jpeg)
 
 
 
