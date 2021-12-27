@@ -6,6 +6,8 @@ updated: 2021-12-22 12:13
 ![Painting](../assets/self-portrait.jpeg)
 *Fig1, Pablo Picasso, Les Demoiselles d'Avignon, 1907*
 
-<img src="../assets/self-portrait.jpeg">
+![Painting](../assets/self-portrait.jpeg){:class="img-responsive"}
+
+
 
 
