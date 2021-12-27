@@ -1,5 +1,5 @@
 ---
-title: * Art Salon * Admonitions of the Instructress to the Court Ladies
+title:  Art Salon -- Admonitions of the Instructress to the Court Ladies
 updated: 2021-01-24 12:13
 ---
 

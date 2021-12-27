@@ -1,5 +1,5 @@
 ---
-title: * Quote * The Art of Seeing
+title: Art Quote -- The Art of Seeing
 updated: 2021-02-06 12:13
 ---
 
