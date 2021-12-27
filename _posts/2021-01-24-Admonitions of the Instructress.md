@@ -1,10 +1,10 @@
 ---
-title: Salon d'hiver - Admonitions of the Instructress to the Court Ladies
+title: * Art Salon * Admonitions of the Instructress to the Court Ladies
 updated: 2021-01-24 12:13
 ---
 
 
-Welcome to Salon d'hiver where various artpieces are presented through the screen. I will lead you into a world of pure vision, bringing out your utmost visual and analytical capability. The first section, `Pure Looking` deals with what art historians call "formal analysis": observing the most basic visual qualities of an image without any inference to its representational meaning.
+Welcome to Salon d'hiver where various artpieces are presented through the screen. I will lead you into a world of pure vision, bringing out your utmost visual and analytical capability.  `Pure Looking` deals with what art historians call "formal analysis": observing the most basic visual qualities of an image without any inference to its representational meaning.
 
 ![Painting](https://lh3.googleusercontent.com/joqNC1MPWjjPRPeqEnMsURxE0G1VaUQBgeqE7-Rg-xg0P48O8npxnrWXyRV9c9doZ5M30vXQmIJT9TvOW3LhMHdHUBFd=s2048)
 *Fig 1: Part of The Admonitions of the Instructress to the Court Ladies, Gu Kaizhi (around 344-406), 5thC-7thC*

@@ -1,5 +1,5 @@
 ---
-title: Le thé de l'après-midi -- Picasso and Primitivism 
+title: * Art Critique * Le thé de l'après-midi -- Picasso and Primitivism 
 updated: 2021-02-08 12:13
 ---
 

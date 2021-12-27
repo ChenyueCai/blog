@@ -1,5 +1,5 @@
 ---
-title: Solovyov, Meaning of love, 83
+title: * Critique * Solovyov, Meaning of love, 83
 updated: 2021-01-25 12:13
 ---
 
