@@ -1,5 +1,5 @@
 ---
-title: Art Salon -- Buddha painting in Mogao Caves, Cave 17, 701-750 circa
+title: Art Salon -- Buddha painting in Mogao Caves, Cave 17
 updated: 2022-02-01 12:13
 ---
 
